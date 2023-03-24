@@ -10,3 +10,5 @@ Personal-site: https://danielkert-test.web.app/
 - I'm a student.
 - Learning frontend and backend + python (dream of c/c++)
 - Living somewhere in skandinaviaish.
+
+<iframe src="https://www.youtube.com/" style="border:0px #ffffff none;" name="myiFrame" scrolling="no" frameborder="1" marginheight="0px" marginwidth="0px" height="400px" width="600px" allowfullscreen></iframe>
