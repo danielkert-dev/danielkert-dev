@@ -13,4 +13,4 @@ Portfolio: https://danielkert-dev.github.io/
 
 - Open-Source Rich Text Editor that will evolve into a worldbuilding/writing application
 - Gambling site. 
-- Open-Source Wiki for writers.
+- API's (lots of them with node.js)
