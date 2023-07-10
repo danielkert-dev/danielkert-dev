@@ -6,5 +6,5 @@ Portfolio: https://danielkert-dev.github.io/
 
 - Creating API's
 - Django fan!
-- Trying to code 2h/day minimum
+- Web Scaping 😩
 
