@@ -1,6 +1,6 @@
 ### Links
 
-Portfolio: https://danielkert-dev.github.io/
+TODO: https://danielkert-dev.github.io/
 
 ### About
 
