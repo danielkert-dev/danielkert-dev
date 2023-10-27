@@ -1,6 +1,6 @@
 ### Links
 
-TODO: https://danielkert-dev.github.io/
+Vue.js test: https://danielkert-dev.github.io/
 
 ### About
 
