@@ -1,6 +1,6 @@
 ### Links
 
-Weather app with Vue.js (2h): https://danielkert-dev.github.io/
+Portfolio*: https://danielkert-dev.github.io/
 
 ### About
 
