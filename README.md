@@ -1,6 +1,6 @@
 ### Links
 
-Vue.js test: https://danielkert-dev.github.io/
+Weather app with Vue.js (2h): https://danielkert-dev.github.io/
 
 ### About
 
