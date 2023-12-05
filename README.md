@@ -6,5 +6,6 @@ Temp project: https://danielkert-dev.github.io/
 
 - Creating API's
 - Django fan!
-- Web Scaping 😩
+- Web Scaping
+- Vue.js
 
