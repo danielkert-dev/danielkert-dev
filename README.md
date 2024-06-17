@@ -1,1 +1,1 @@
-danke.ax
+https://danke.ax
