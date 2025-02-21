@@ -13,7 +13,7 @@ _() -> inte riktit bäst men klarar, * -> på gång just nu_
 
 - Compiled språk: C, Rust*
 - Interpreted språk: Python, JavaScript, TypeScript, (Bash), Java*, PHP
-- Ramvärk: Vue.js, Nuxt.js, HUGO, Django, FastAPI, (Svelte), (Larvel)
+- Ramvärk: Vue.js, Nuxt.js, HUGO, Django, FastAPI, HTMX, (Svelte), (Larvel)
 - OS: Linux, Windows, (Mac)
 - Verktyg: Git, Excel, Cloudflare, DaVinci Resolve, Lightroom, Affinity
 
@@ -28,7 +28,7 @@ Kontakta mig via daniel@cybersecurity.ax
 
 - [xx.xx.2023] Höst: Började lära Vue.js och Nuxt.js
 - [xx.xx.2024] Vår: Klarade Gymnasium
-- [xx.xx.2024] Höst: Började lära C
+- [xx.xx.2024] Höst: Började lära C och HTMX
 - [12.12.2024] Första riktig klient :)
 - [05.01.2025] Började lära HUGO
 - [21.02.2025] Började lära Rust och Java
