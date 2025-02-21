@@ -13,8 +13,8 @@
 _() -> inte riktit bäst men klarar, * -> på gång just nu_
 
 - Compiled språk: C, Rust*
-- Interpreted språk: Python, JavaScript, TypeScript, (Bash), Java*
-- Ramvärk: Vue.js, Nuxt.js, HUGO, Django, FastAPI, (Svelte)
+- Interpreted språk: Python, JavaScript, TypeScript, (Bash), Java*, PHP
+- Ramvärk: Vue.js, Nuxt.js, HUGO, Django, FastAPI, (Svelte), (Larvel)
 
 ---
 
