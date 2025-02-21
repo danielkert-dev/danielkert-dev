@@ -15,10 +15,10 @@ Kontakta mig via daniel@cybersecurity.ax
 
 ## Blog
 
-[~.~.2023 ] Höst: Började lära Vue
-[~.~.2024] Vår: Klarade Gymnasium
-[~.~.2024] Höst: Började lära C
-[12.12.2024] Första riktig klient :)
-[05.01.2025] Började lära HUGO
-[21.02.2025] Började lära Rust
+- [~.~.2023 ] Höst: Började lära Vue
+- [~.~.2024] Vår: Klarade Gymnasium
+- [~.~.2024] Höst: Började lära C
+- [12.12.2024] Första riktig klient :)
+- [05.01.2025] Började lära HUGO
+- [21.02.2025] Började lära Rust
 
