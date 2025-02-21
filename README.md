@@ -20,12 +20,12 @@ _() -> inte riktit bäst men klarar, ! -> kan riktigt bra, * -> på gång just n
 
 ---
 
-## Köp .ax domän för 30 euro.
+### Köp .ax domän för 30 euro.
 Kontakta mig via daniel@cybersecurity.ax
 
 ---
 
-## Blog
+### Blog
 
 - [xx.xx.2023] Höst: Började lära Vue.js och Nuxt.js
 - [xx.xx.2024] Vår: Klarade Gymnasium
