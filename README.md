@@ -28,7 +28,7 @@ Kontakta mig via daniel@cybersecurity.ax
 
 - [xx.xx.2023] Höst: Började lära Vue.js och Nuxt.js
 - [xx.xx.2024] Vår: Klarade Gymnasium
-- [xx.xx.2024] Höst: Började lära C och HTMX
+- [xx.xx.2024] Höst: Började Högskola, lära C och använda HTMX
 - [12.12.2024] Första riktig klient :)
 - [05.01.2025] Började lära HUGO
 - [21.02.2025] Började lära Rust och Java
