@@ -9,13 +9,13 @@
 
 ### Kunskap
 
-_() -> inte riktit bäst men klarar, * -> på gång just nu_
+_() -> inte riktit bäst men klarar, ! -> kan riktigt bra, * -> på gång just nu_
 
 - Compiled språk: C, Rust*
-- Interpreted språk: Python, JavaScript, TypeScript, (Bash), Java*, PHP
-- Ramvärk: Vue.js, Nuxt.js, HUGO, Django, FastAPI, HTMX, (Svelte), (Larvel)
-- OS: Linux, Windows, (Mac)
-- Verktyg: Git, Excel, Cloudflare, DaVinci Resolve, Lightroom, Affinity
+- Interpreted språk: Python, JavaScript!, TypeScript, (Bash), Java*, PHP
+- Ramvärk: Vue.js, Nuxt.js, HUGO!, Django, FastAPI, HTMX, (Svelte), (Larvel)
+- OS: Linux!, Windows, (Mac)
+- Verktyg: Git, Excel, Cloudflare!, DaVinci Resolve, Lightroom, Affinity
 
 ---
 
