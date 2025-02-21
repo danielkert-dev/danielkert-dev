@@ -6,12 +6,14 @@
 - Vill jobba med IT.
 - Drömmer att skriva böcker när jag är gammal.
 
+---
+
 ### Kunskap
 
-_() -> inte riktit bäst men klarar, * -> på gång_
+_() -> inte riktit bäst men klarar, * -> på gång just nu_
 
-- Compilerat språk: C, (Rust)*
-- Interpreted språk: Python, JavaScript, TypeScript, (Bash)
+- Compiled språk: C, Rust*
+- Interpreted språk: Python, JavaScript, TypeScript, (Bash), Java*
 - Ramvärk: Vue.js, Nuxt.js, HUGO, Django, FastAPI, (Svelte)
 
 ---
