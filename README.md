@@ -1,6 +1,5 @@
 ## Om Daniel
 
-- Heter Daniel. 
 - Gillar allt relaterat med IT och lära om IT.
 - Pluggar konstant.
 - Vill jobba med IT.
@@ -15,6 +14,8 @@ _() -> inte riktit bäst men klarar, * -> på gång just nu_
 - Compiled språk: C, Rust*
 - Interpreted språk: Python, JavaScript, TypeScript, (Bash), Java*, PHP
 - Ramvärk: Vue.js, Nuxt.js, HUGO, Django, FastAPI, (Svelte), (Larvel)
+- OS: Linux, Windows, (Mac)
+- Verktyg: Git, Excel, Cloudflare, DaVinci Resolve, Lightroom, Affinity
 
 ---
 
