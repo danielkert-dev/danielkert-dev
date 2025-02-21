@@ -6,6 +6,14 @@
 - Vill jobba med IT.
 - Drömmer att skriva böcker när jag är gammal.
 
+### Kunskap
+
+_() -> inte riktit bäst men klarar, * -> på gång_
+
+- Compilerat språk: C, (Rust)*
+- Interpreted språk: Python, JavaScript, TypeScript, (Bash)
+- Ramvärk: Vue.js, Nuxt.js, HUGO, Django, FastAPI, (Svelte)
+
 ---
 
 ## Köp .ax domän för 30 euro.
