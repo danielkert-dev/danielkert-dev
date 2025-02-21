@@ -15,7 +15,7 @@ _() -> inte riktit bäst men klarar, ! -> kan riktigt bra, * -> på gång just n
 - Interpreted språk: Python, JavaScript!, TypeScript, (Bash), Java*, PHP
 - Ramvärk: Vue.js, Nuxt.js, HUGO!, Django, FastAPI, HTMX, (Svelte), (Larvel)
 - OS: Linux!, Windows, (Mac)
-- Verktyg: Git, Excel, Cloudflare!, DaVinci Resolve, Lightroom, Affinity
+- Verktyg: Git, Excel, WordPress!, Cloudflare!, DaVinci Resolve, Lightroom, Affinity
 
 ---
 
