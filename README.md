@@ -20,9 +20,9 @@ _() -> inte riktit bäst men klarar, ! -> kan riktigt bra, * -> på gång just n
 
 ---
 
-### Köp .ax Domän för 30 Euro / år!
+#### Köp .ax Domän för 25 Euro / år!
 
-### Köp PocketBase Databas för 1 Euro / månad!
+#### Köp PocketBase Databas för 1 Euro / månad!
 
 Kontakta mig via daniel@cybersecurity.ax
 
