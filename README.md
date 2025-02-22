@@ -16,7 +16,7 @@ _() -> inte riktit bäst men klarar, ! -> kan riktigt bra, * -> på gång just n
 - Ramvärk: Vue.js, Nuxt.js, HUGO!, Django, FastAPI, HTMX, (Svelte), (Larvel)
 - DB: SQLite!, PostgreSQL, MariaDB, (MongoDB) 
 - OS: Linux!, Windows, (Mac)
-- Verktyg: Git, Excel, WordPress!, Cloudflare!, Nginx, DaVinci Resolve, Lightroom, Affinity
+- Verktyg: Git, Excel, WordPress!, Cloudflare!, Nginx, Docker, Obsidian, DaVinci Resolve, Lightroom, Affinity
 
 ---
 
