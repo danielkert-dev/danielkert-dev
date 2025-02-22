@@ -20,7 +20,7 @@ _() -> inte riktit bäst men klarar, ! -> kan riktigt bra, * -> på gång just n
 
 ---
 
-### Köp .ax Domän för 30 euro!
+### Köp .ax Domän för 30 euro / år!
 
 ### Köp PocketBase Databas för 2 euro / månad!
 
