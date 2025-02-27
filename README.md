@@ -14,7 +14,11 @@
 ---
 
 <details>
-<summary>Kunskap</summary>
+<summary>
+  
+### Kunskap
+  
+  </summary>
 
 _() -> inte riktit bäst men klarar, ! -> kan riktigt bra, * -> på gång just nu_
 
