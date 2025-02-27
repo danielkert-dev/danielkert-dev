@@ -11,8 +11,6 @@
 - Drömmer att skriva böcker när jag är gammal.
 </details>
 
----
-
 <details>
 <summary>
   
@@ -31,7 +29,6 @@ _() -> inte riktit bäst men klarar, ! -> kan riktigt bra, * -> på gång just n
 
 </details>
 
----
 
 #### Köp .ax Domän för 25 Euro / år!
 
