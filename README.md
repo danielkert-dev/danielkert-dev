@@ -1,7 +1,7 @@
 <details>
 <summary> Om Daniel
 </summary>
-  
+<p></p>
 - Gillar allt relaterat med IT och lära om IT.
 - Pluggar konstant.
 - Vill jobba med IT.
@@ -15,7 +15,7 @@
 <summary > Kunskap
   
   </summary>
-  
+  <p></p>
 _() -> inte riktit bäst men klarar, ! -> kan riktigt bra, * -> på gång just nu_
 
 - Compiled språk: C, Rust*
