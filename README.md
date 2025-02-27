@@ -1,8 +1,5 @@
 <details>
-<summary>
-  
-<b>Om Daniel</b>
-
+<summary style="font-weight: bold"> Om Daniel
 </summary>
 
 - Gillar allt relaterat med IT och lära om IT.
@@ -15,9 +12,7 @@
 </details>
 
 <details>
-<summary>
-  
-<b>Kunskap</b>
+<summary style="font-weight: bold"> Kunskap
   
   </summary>
 
