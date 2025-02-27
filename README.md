@@ -7,7 +7,8 @@
 
 ---
 
-### Kunskap
+<details>
+<summary>### Kunskap</summary>
 
 _() -> inte riktit bäst men klarar, ! -> kan riktigt bra, * -> på gång just nu_
 
@@ -18,6 +19,7 @@ _() -> inte riktit bäst men klarar, ! -> kan riktigt bra, * -> på gång just n
 - OS: Linux!, Windows, (Mac)
 - Verktyg: Git, Excel, WordPress!, Cloudflare!, Nginx, Docker, Obsidian, DaVinci Resolve, Lightroom, Affinity
 
+</details>
 ---
 
 #### Köp .ax Domän för 25 Euro / år!
