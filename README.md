@@ -1,7 +1,7 @@
 <details>
 <summary>
   
-### Om Daniel
+<b>Om Daniel</b>
 
 </summary>
 
@@ -9,12 +9,15 @@
 - Pluggar konstant.
 - Vill jobba med IT.
 - Drömmer att skriva böcker när jag är gammal.
+
+---
+
 </details>
 
 <details>
 <summary>
   
-### Kunskap
+<b>Kunskap</b>
   
   </summary>
 
@@ -26,6 +29,8 @@ _() -> inte riktit bäst men klarar, ! -> kan riktigt bra, * -> på gång just n
 - DB: SQLite!, PostgreSQL, MariaDB, (MongoDB) 
 - OS: Linux!, Windows, (Mac)
 - Verktyg: Git, Excel, WordPress!, Cloudflare!, Nginx, Docker, Obsidian, DaVinci Resolve, Lightroom, Affinity
+
+---
 
 </details>
 
