@@ -22,7 +22,7 @@ _() -> inte riktit bäst men klarar, ! -> kan riktigt bra, * -> på gång just n
 
 - Compiled språk: C, Rust*
 - Interpreted språk: Python, JavaScript!, TypeScript, (Bash), Java*, PHP
-- Ramvärk: Vue.js, Nuxt.js, HUGO!, Django, FastAPI, HTMX, (Svelte), (Larvel)
+- Ramvärk: Vue.js, Nuxt.js, HUGO!, Django, FastAPI, HTMX, Tauri* (Svelte), (Larvel)
 - DB: SQLite!, PostgreSQL, MariaDB, (MongoDB) 
 - OS: Linux!, Windows, (Mac)
 - Verktyg: Git, Excel, WordPress!, Cloudflare!, Nginx, Docker, Obsidian, DaVinci Resolve, Lightroom, Affinity
